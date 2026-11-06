@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>CheckoutUz.Sdk</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>CHECKOUT.UZ</Authors>
+    <Description>Official .NET client for the CHECKOUT.UZ merchant API (v1 and v2)</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/checkout-uz/checkout-sdk-csharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/checkout-uz/checkout-sdk-csharp</RepositoryUrl>
+    <RootNamespace>CheckoutUz</RootNamespace>
+  </PropertyGroup>
+
+</Project>
